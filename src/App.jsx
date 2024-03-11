@@ -7,7 +7,7 @@ import SocialLink from './components/SocialLink'
 export default function App() {
   const name = 'Jessica Randall'
   const location = 'London, United Kingdom'
-  const description = 'Front-end developer and active reader.'
+  const description = 'Front-end developer and avid reader.'
   const socialLinks = ['GitHub', 'Frontend Mentor', 'LinkedIn', 'Twitter', 'Instagram']
 
   return (
